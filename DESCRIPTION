@@ -1,6 +1,6 @@
 Package: METanalyzeR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Analysis of Plant Breeding Experiments While Accounting For Uncertainty Due to complex Genotypes By Environment Interactions
 Version: 0.1.0
 Author: Reyhaneh Bijari
 Maintainer: The package maintainer <r.bijari@gmail.com>
