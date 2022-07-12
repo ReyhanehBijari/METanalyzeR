@@ -17,3 +17,45 @@
 #' }
 "sample_data"
 
+#' Sample rapeseed dataset for the genotype ranking
+#'
+#'
+#' @format A dataframe with 1688 observations and 10 variables:
+#' \describe{
+#'    \item{YEAR}{year}
+#'    \item{LOCATION}{location the genotype is planted in}
+#'    \item{GENOTYPE}{genotypes planted in a trial}
+#'    \item{ENVIRONMENT}{location-year the genotype is planted in}
+#'    \item{REPNO}{replications of each genotype in each environment}
+#'    \item{PT}{phenotypic of phenotype}
+
+#' }
+"sample_data_oat"
+
+#' Sample rapeseed dataset for the genotype ranking
+#'
+#'
+#' @format A dataframe with 1688 observations and 10 variables:
+#' \describe{
+#'    \item{YEAR}{year}
+#'    \item{LOCATION}{location the genotype is planted in}
+#'    \item{GENOTYPE}{genotypes planted in a trial}
+#'    \item{ENVIRONMENT}{location-year the genotype is planted in}
+#'    \item{REPNO}{replications of each genotype in each environment}
+#'    \item{PT}{phenotypic of phenotype}
+
+#' }
+#'
+"sample_data_rapeseed"
+
+
+#' @format A dataframe with 1688 observations and 10 variables:
+#' \describe{
+#'    \item{YEAR}{year}
+#'    \item{LOCATION}{location the genotype is planted in}
+#'    \item{GENOTYPE}{genotypes planted in a trial}
+#'    \item{ENVIRONMENT}{location-year the genotype is planted in}
+#'    \item{REPNO}{replications of each genotype in each environment}
+#'    \item{PT}{phenotypic of phenotype}
+
+#' }
