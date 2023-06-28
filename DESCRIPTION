@@ -1,0 +1,13 @@
+Package: METanalyzeR
+Type: Package
+Title: Analysis of Plant Breeding Experiments While Accounting For Uncertainty Due to Complex Genotypes By Environment Interactions
+Version: 0.1.0
+Author: Reyhaneh Bijari - Mohammadreza Kiaghadi
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: boot,data.table, dplyr,reshape2,forcats, ggplot2, parallel
