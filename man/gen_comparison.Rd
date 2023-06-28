@@ -16,8 +16,8 @@ gen_comparison(Dataset, Experiment, Ranks_table)
 \value{
 a list of 2 items:
 \itemize{
-\item df1
-\item Rey
+   \item df1
+   \item Rey
 }
 }
 \description{
