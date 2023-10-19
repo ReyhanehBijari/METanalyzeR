@@ -4,8 +4,9 @@ Title: Analysis of Plant Breeding Experiments While Accounting For Uncertainty D
 Version: 0.1.0
 Author: Reyhaneh Bijari, Mohammadreza Kiaghadi
 Maintainer: The package maintainer <r.bijari@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: The METAnalyzer package is a new tool for plant breeding researchers. 
+    It helps estimate probabilities in multi-environmental trials, accounting for the uncertainty resulting from using only a small sample of possible environments. 
+    This tool enables users to compare genotypes in novel ways, such as creating rank confidence intervals and determining the likelihood of genotypes performing better in various environments.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
