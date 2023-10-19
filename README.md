@@ -9,7 +9,7 @@
 - **Version:** 0.1.0
 - **Authors:** Reyhaneh Bijari, Mohammadreza Kiaghadi
 - **Maintainer:** The package maintainer <rbijari@iastate.edu>
-- **License:** MIT + [LICENSE](LICENSE)
+- **License:** MIT + [LICENSE.md](LICENSE)
 - **Encoding:** UTF-8
 - **LazyData:** true
 - **RoxygenNote:** 7.2.0
