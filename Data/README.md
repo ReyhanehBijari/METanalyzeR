@@ -1,5 +1,3 @@
-# Data Directory README
-
 This README file provides an overview of the datasets stored in the `Data` directory of the METanalyzeR repository.
 
 ## 1. Soybean Yield Data from Multi-Environment Trials
